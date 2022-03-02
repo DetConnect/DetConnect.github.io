@@ -16,11 +16,10 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "favicon.png": "bbef258b70541ee413c849bad62a0dd8",
-"main.dart.js": "6e13c398f9c57181b5a8034feb89d9e3",
-"index.html": "7e0d568b8f012da0ac79cfdc890e68b7",
-"/": "7e0d568b8f012da0ac79cfdc890e68b7",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"main.dart.js": "c99b696aecf3296c97d45f2ee87c1b82",
+"index.html": "916e28f1df4fc870ccd6b139c631f4fc",
+"/": "916e28f1df4fc870ccd6b139c631f4fc",
+"icons/Icon-800.png": "bbef258b70541ee413c849bad62a0dd8",
 "manifest.json": "6c20f76e84891f59822c86de425e5b9e",
 "version.json": "4e2fd9ffda21c599ab908209d97aead7"
 };

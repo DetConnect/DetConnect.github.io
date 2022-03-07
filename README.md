@@ -11,4 +11,4 @@ Visit `localhost:8000` to view
 
 ### View site
 
-DetConnect.github.io
+detconnect.org

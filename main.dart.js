@@ -33726,7 +33726,7 @@ pr:function(){var s=0,r=P.aa(t.eT),q,p=this,o,n,m
 var $async$pr=P.a5(function(a,b){if(a===1)return P.a7(b,r)
 while(true)switch(s){case 0:o=P.os("https://script.google.com/macros/s/AKfycbyd4tS7sL91cIz-If9880lDWcHXCKYvY5AKfHqqn0lqwFZaz_oLX3Q8E1TpLAUHOeqiog/exec",0,null)
 n=t.R
-m=P.aB(["Content-Type","application/json"],n,n)
+m=P.aB(["Content-Type","text/plain"],n,n)
 s=3
 return P.al(G.aos(o,C.bF.Ip(P.aB(["name",p.d,"rank",p.e,"position",p.f,"detachment",p.r,"email",p.x],n,n),null),m),$async$pr)
 case 3:q=b
